@@ -3,7 +3,7 @@
 <img align="right" alt="CodingImage" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadameerhamzakhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadameerhamzakhan" /> </p>
 
-- 💻 My expertise lies in HTML, CSS, and JavaScript, and I'm proficient in using modern frontend frameworks like React.js and Angular to build dynamic web applications.
+💻 My expertise lies in HTML, CSS, and JavaScript, and I'm proficient in using modern frontend frameworks like React.js and Angular to build dynamic web applications.
 
 🌟 With a keen eye for design and a dedication to crafting seamless user experiences, I strive to deliver projects that not only meet client expectations but exceed them.
 
