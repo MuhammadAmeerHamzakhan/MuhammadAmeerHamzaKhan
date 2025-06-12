@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer Hamza Khan</h1>
 <h3 align="center"> Full-Stack Developer | Vulnerability Assessment and Penetration Testing (VAPT) | Ethical Hacker | Bug Bounty Hunter | Web Application Security | Problem Solver</h3>
 
-<img align="right" alt="CodingImage" width="400" src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif">
+<img align="right" alt="CodingImage" width="400" src="[https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif](https://iconscout.com/lottie-animation/programmer-7661077_6154179)">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muhammadameerhamzakhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for muhammadameerhamzakhan" />
