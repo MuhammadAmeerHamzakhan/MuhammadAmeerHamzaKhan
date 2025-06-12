@@ -80,8 +80,9 @@
 </a>
 
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Wireshark_Logo.png" alt="wireshark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/wireshark.svg" alt="wireshark" width="40" height="40"/>
 </a>
+
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://portswigger.net/favicon.ico" alt="burpsuite" width="40" height="40"/>
   </a>
