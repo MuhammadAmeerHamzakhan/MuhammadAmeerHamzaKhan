@@ -3,8 +3,9 @@
 
 <img align="right" alt="CodingImage" width="400" src="https://corizo.in/wp-content/uploads/2025/01/Online-Coding-classes-for-Kids-_-ZugZwang-Academy.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadameerhamzakhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadameerhamzakhan" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhammadameerhamzakhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for muhammadameerhamzakhan" />
+</p>
 
 - 🌱 I’m currently focused on **C++, C#, JavaScript, and mostly Python** as part of my cybersecurity internship
 
