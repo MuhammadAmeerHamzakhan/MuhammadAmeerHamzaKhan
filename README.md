@@ -75,12 +75,12 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="kali-linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
-  </a>
+ <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
+</a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Wireshark_Logo.png" alt="wireshark" width="40" height="40"/>
+</a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://portswigger.net/favicon.ico" alt="burpsuite" width="40" height="40"/>
   </a>
