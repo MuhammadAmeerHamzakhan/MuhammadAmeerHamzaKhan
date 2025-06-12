@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 Reach me at **pakhamza99@gmail.com**
+- 📫 Reach me at **mameerhamzak07@gmail.com**
 
 - 📄 I have experience in full-stack development using HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB
 
